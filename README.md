@@ -1,6 +1,24 @@
 # Skills
 Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.
 
+## 🚀 Quick Start for Claude Desktop
+
+**Want to install ALL skills to Claude Desktop in one click?**
+
+### [📖 START HERE - Complete Installation Guide](START_HERE.md)
+
+**Or jump straight to:**
+
+1. **Windows:** Run [INSTALL_CLAUDE_DESKTOP.bat](INSTALL_CLAUDE_DESKTOP.bat)
+2. **Mac/Linux:** Run [install_claude_desktop.sh](install_claude_desktop.sh)
+
+**Then read:**
+- [QUICK_START.md](QUICK_START.md) - 3-step quick start (2 min read)
+- [SKILLS_USER_GUIDE.md](SKILLS_USER_GUIDE.md) - Complete guide with examples (10 min read)
+- [BEFORE_VS_AFTER.md](BEFORE_VS_AFTER.md) - Why this is a game-changer (5 min read)
+
+This installs all 15 skills (11 example skills + 4 document skills) to make Claude exponentially more powerful - turning it from an advisor into a professional team that actually creates documents, spreadsheets, presentations, graphics, and web applications for you!
+
 For more information, check out:
 - [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills)
 - [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
