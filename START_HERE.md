@@ -201,7 +201,8 @@ Do things you couldn't do before:
 3. Check installation path (see [INSTALLATION_SUMMARY.md](INSTALLATION_SUMMARY.md))
 
 ### Need Help?
-- Check [SKILLS_USER_GUIDE.md](SKILLS_USER_GUIDE.md) for detailed troubleshooting
+- Check [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for common issues and fixes
+- Check [SKILLS_USER_GUIDE.md](SKILLS_USER_GUIDE.md) for detailed instructions
 - Visit official docs: https://support.claude.com/en/articles/12512176-what-are-skills
 
 ---
