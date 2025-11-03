@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command:*)",
+      "Bash(cat:*)",
+      "Bash(for skill in .claude/skills/*/SKILL.md)",
+      "Bash(head:*)",
+      "Bash(done)",
+      "Bash(gh repo create:*)",
+      "Bash(git rev-parse:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(git fetch:*)",
+      "Bash(npm run build:*)",
+      "Bash(test:*)",
+      "Skill(debugging)",
+      "Bash(ls:*)",
+      "Bash(taskkill:*)",
+      "Bash(timeout /t 2 /nobreak)",
+      "Bash(nul)",
+      "Bash(npm run dev:win:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(timeout:*)",
+      "Bash(git add:*)",
+      "Bash(git ls-tree:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfeat: add insurance CRM optimizer skill\n\nComprehensive skill for diagnosing and optimizing insurance CRM systems built\nwith Next.js, Supabase, and Clerk. Includes expertise in:\n\n- Database schema troubleshooting and SQL migrations\n- Calendar integration debugging (Google Calendar, Calendly)\n- Analytics reporting fixes for revenue/client tracking\n- Excel import workflows for HealthSherpa data\n- OAuth token refresh and environment configuration\n- Performance optimization for large client databases\n- Common insurance CRM issues and solutions\n\nBased on real-world CRM debugging session covering calendar API failures,\nmissing database columns, analytics showing zero data, and OAuth configuration.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
+      "Bash(git checkout:*)",
+      "Bash(git init:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
