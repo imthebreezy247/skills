@@ -29,7 +29,9 @@
       "Bash(git init:*)",
       "Bash(git commit -m \"$(cat <<''EOF''\nfeat: add comprehensive Claude Code skills collection\n\nComprehensive collection of Claude Code skills including:\n\n- insurance-crm-optimizer: Specialized skill for diagnosing and optimizing insurance CRM systems (Next.js, Supabase, Clerk)\n- debugging: Systematic bug diagnosis and fixing\n- api-developer: RESTful and GraphQL API design\n- database-expert: Schema design and query optimization\n- code-review: Comprehensive code quality analysis\n- documentation: Technical documentation generation\n- git-expert: Advanced git operations\n- performance-optimizer: Performance bottleneck resolution\n- refactoring: Code structure improvement\n- security-audit: Security vulnerability analysis\n- test-writer: Comprehensive test suite generation\n\nUpdated settings with auto-approve rules for common development workflows.\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")",
       "Bash(git branch:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(\"C:\\Users\\shann\\AppData\\Local\\Programs\\Python\\Python312\\python.exe\" gmail_mcp_server.py --test-auth)",
+      "Bash(git clone:*)"
     ],
     "deny": [],
     "ask": []
