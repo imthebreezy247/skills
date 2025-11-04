@@ -31,7 +31,13 @@
       "Bash(git branch:*)",
       "Bash(git commit:*)",
       "Bash(\"C:\\Users\\shann\\AppData\\Local\\Programs\\Python\\Python312\\python.exe\" gmail_mcp_server.py --test-auth)",
-      "Bash(git clone:*)"
+      "Bash(git clone:*)",
+      "Bash(python:*)",
+      "Bash(curl -s \"https://ufguunkzmqlkrtlfascw.supabase.co/rest/v1/call_recordings?limit=1\" -H \"apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVmZ3V1bmt6bXFsa3J0bGZhc2N3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDIxNjczNjQsImV4cCI6MjA1Nzc0MzM2NH0.4gP4n7WTcMqZh0SiE63JmwMZNeQkRLZdP195s5ct7lM\")",
+      "Bash(curl:*)",
+      "Bash(start notepad:*)",
+      "Bash(start https://supabase.com/dashboard/project/ufguunkzmqlkrtlfascw/sql)",
+      "Bash(start http://localhost:8080)"
     ],
     "deny": [],
     "ask": []
